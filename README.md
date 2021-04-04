@@ -5,12 +5,17 @@ Deadline:
 
 Trivial project to exercise version control, turn-in, and other mechanisms.
 
-:warning: Be careful about the changes you make. I highly recommend waiting until session 2 (04/08/2021). If you insist on getting started earlier, please let me know so I can explain everything in advance. Best way to reach me is through Slack or email.
+:warning: Be careful about the changes you make.
+I highly recommend waiting until session 2 (04/08/2021).
+If you insist on getting started earlier, please let me know
+so I can explain everything in advance.
+The best way to reach me is through Slack or email.
 
-## Instructions:
----------------
+## Instructions
 
-- Start by forking this repository on [GitHub](https://github.com/alihassanijr/UOCIS322-P0), then cloning onto the server. Read this file (README.md). 
+- Start by forking this repository on
+[GitHub](https://github.com/alihassanijr/UOCIS322-P0),
+then cloning onto the server. Read this file (README.md). 
   
 - Before you edit a file, read the comments (inside that file) carefully.
 
@@ -37,8 +42,8 @@ Trivial project to exercise version control, turn-in, and other mechanisms.
    on bitbucket so that the auto-checker can "clone" them back to the
    grading machine.
 
-- Test your code with the Makefile. Use the command ``make run`` to execute. Revise and push changes
-   as needed.
+- Test your code with the Makefile. Use the command ``make run`` to execute.
+Revise and push changes as needed.
 
 - Turn in with Canvas. The file you turn in is credentials.ini. We
    use the repository link in your credentials.ini to access the rest,
