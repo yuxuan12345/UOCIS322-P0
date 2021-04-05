@@ -23,7 +23,9 @@ If you're using Windows, please refer to this [link](https://www.howtogeek.com/3
 
 An alternative for all platforms: [Termius](https://termius.com/).
 
-In order to access your GitHub repos and commit changes from the server, make sure you set up an SSH key first. [Tutorial](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+In order to access your GitHub repos and commit changes from the server,
+make sure you set up an SSH key first. 
+[Tutorial](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
 
 ## Instructions
 
