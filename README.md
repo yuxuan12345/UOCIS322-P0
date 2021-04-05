@@ -11,6 +11,18 @@ If you insist on getting started earlier, please let me know
 so I can explain everything in advance.
 The best way to reach me is through Slack or email.
 
+## Before you begin
+
+If you don't know how to SSH:
+
+```
+ssh your_cs_username@hostname
+```
+
+If you're using Windows, please refer to this [link](https://www.howtogeek.com/336775/how-to-enable-and-use-windows-10s-built-in-ssh-commands/) for instructions on enabling SSH in Windows.
+
+An alternative for all platforms: [Termius](https://termius.com/).
+
 ## Instructions
 
 - Start by forking this repository on
