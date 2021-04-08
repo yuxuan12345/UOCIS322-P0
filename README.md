@@ -40,8 +40,9 @@ then cloning onto the server. Read this file (README.md).
 
 - Modify the program "hello.py" so that it prints "Hello
   world". (Nothing more and nothing less.)  Note that you do NOT do
-  this by changing the hello.py source file. Rather, the message is a
-  configuration constant from the credentials.ini file; fix it there.
+  this by DIRECTLY adding the message to the hello.py source file.
+  Rather, the message is a configuration constant from the credentials.ini file;
+  fix it there.
 
 - Replace these instructions with a proper README including the
    author, contact address, and a brief description of what the
