@@ -31,6 +31,7 @@ When you're done, use the following command to add the key (do this every time y
 ```
 ssh-add path/to/.ssh/ssh_filename
 ```
+If you're doing this locally (on your own device and not testium), and you're not using Linux, please pay attention to the Tutorial link above.
 
 ## Instructions
 
